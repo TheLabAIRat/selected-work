@@ -6,7 +6,7 @@ Three production systems, anonymized and documented. Each one is a decision reco
 
 I am an independent MLOps consultant. I take ML and LLM systems the last mile — serving, evaluation, observability, cost control, and the handover nobody scoped. These cases are how I work when the model is already the easy part.
 
-> **Private draft for human review.** Not for publication until the owner has reviewed the claims, the anonymization, and the permissions. Prepared 31 October 2026.
+> **Reviewed 31 October 2026.** Claims and anonymization were checked against the landing repository and the owner-confirmed fact base. Keep client permissions and the testimonial release on file.
 
 ## What this is
 
