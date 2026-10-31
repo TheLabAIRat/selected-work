@@ -84,9 +84,9 @@ One engagement at a time.
 
 ## Contact
 
-[GitHub](https://github.com/TheLabAIRat) · [X](https://x.com/TheLabAIRat)
+[Portfolio](https://www.aldridgesystems.workers.dev) · [GitHub](https://github.com/TheLabAIRat) · [X](https://x.com/TheLabAIRat)
 
-The portfolio site is intentionally not linked from this draft while it is hidden.
+The portfolio is live as of 31 October 2026.
 
 ---
 
