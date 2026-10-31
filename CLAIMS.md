@@ -4,6 +4,8 @@ Every number and factual claim in this repository maps to a source below. If a c
 
 **Source key.** Paths such as `cases/simple.html`, `README.md`, `CONTENT-CHECKLIST.md`, and `x-content/fact-base.md` refer to the landing repository (the read-only source of truth), not to files in this repository. "Owner-confirmed" means the figure was confirmed by the site owner on 31 October 2026 and recorded in `CONTENT-CHECKLIST.md` or `x-content/fact-base.md`. "Case page" means the figure is stated in the corresponding anonymized case HTML. "Derived" means arithmetic from a sourced figure, with the arithmetic shown.
 
+> Line references were captured while the landing pages were being edited and may drift. Treat the claim wording plus the case section title as the stable anchor; re-run the line check before publication. The status column is the binding part.
+
 ## Practice claims (README)
 
 | Claim | Wording in this repository | Source | Status |
